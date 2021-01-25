@@ -1,0 +1,44 @@
+{
+  "user": [
+    {
+      "username": "Bharti",
+      "Password": "kumari#6",
+      "profile": {
+        "Descreption": "I am Bharti and i love coding.",
+        "dob": "4 April 1998",
+        "Hobbis": "Travel, Watching movie and dance",
+        "Gender": "Female"
+      }
+    },
+    {
+      "username": "Ravina",
+      "password": "rabo#9",
+      "profile": {
+        "Descreption": "i am Ravina and i am very smart",
+        "dob": "2 May 1999",
+        "Hobbis": "dancing",
+        "Gender": "Female"
+      }
+    },
+    {
+      "username": "Neha yadev",
+      "password": "yadev#6",
+      "profile": {
+        "Descreption": "i am Neha and i am FM at NG",
+        "dob": "4 may 1999",
+        "Hobbis": "cooking",
+        "Gender": "Female"
+      }
+    },
+    {
+      "username": "navgurukul2016",
+      "password": "ng#16",
+      "profile": {
+        "Descreption": "I am Navgurukul",
+        "dob": "2 December 2016",
+        "Hobbis": "work on leadership and employment",
+        "Gender": "Oragnization"
+      }
+    }
+  ]
+}
